@@ -1,0 +1,11 @@
+.course-details-container {
+  padding: 45px;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

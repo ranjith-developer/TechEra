@@ -1,0 +1,50 @@
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-image {
+  width: 50%;
+}
+
+.failure-heading {
+  color: #1e293b;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.failure-info {
+  color: #475569;
+  font-size: 22px;
+}
+
+.retry-btn {
+  background-color: #1e293b;
+  color: #ffffff;
+  padding: 5px;
+  border-radius: 5px;
+  width: 120px;
+  height: 32px;
+}
+
+.course-list-container {
+  padding-left: 150px;
+  padding-right: 24px;
+}
+
+.courses-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style-type: none;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

@@ -1,0 +1,12 @@
+.course-details-item {
+  display: flex;
+  background-color: #ffffff;
+  box-shadow: 4px 10px #e8e8e8;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+
+.image {
+  width: 100%;
+  margin-right: 24px;
+}
